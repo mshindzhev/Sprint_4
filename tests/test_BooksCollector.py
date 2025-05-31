@@ -1,7 +1,7 @@
 import pytest
 
 from tests.data import BOOK, GENGRE
-from helpers import generate_random_book
+from tests.helpers import generate_random_book
 
 
 class TestBooksCollector:
